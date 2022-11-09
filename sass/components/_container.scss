@@ -1,0 +1,38 @@
+.container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+  }
+  
+  .contact-nav {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+  }
+  
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+  .site-body {
+    font-family: "Roboto", sans-serif;
+    background: #ffffff;
+  }
+  .list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+  }
+  .link {
+    text-decoration: none;
+  }
+  .link:hover {
+    color: #2196f3;
+  }
+  .link:focus {
+    color: #2196f3;}

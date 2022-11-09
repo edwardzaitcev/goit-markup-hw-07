@@ -1,3 +1,20 @@
-.body {
-    
-}
+@import './base/reset';
+
+@import './header';
+@import './components/container';
+@import './hero';
+@import './benefits';
+@import './features';
+@import './different';
+@import './client';
+@import './team';
+
+
+
+@import './modal';
+
+
+@import './portfolio/portfolio';
+@import './portfolio/card';
+@import './footer';
+@import './subscription';
