@@ -1,7 +1,9 @@
 @import './base/reset';
+@import './base/common';
+@import './components/logo';
 
 @import './header';
-@import './components/logo';
+
 @import './components/container';
 @import './hero';
 @import './benefits';
@@ -17,6 +19,8 @@
 
 @import './portfolio/portfolio';
 @import './portfolio/card';
+
 @import './footer';
+
 @import './subscription';
 
