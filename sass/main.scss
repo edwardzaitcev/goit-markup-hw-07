@@ -1,6 +1,7 @@
 @import './base/reset';
 
 @import './header';
+@import './components/logo';
 @import './components/container';
 @import './hero';
 @import './benefits';
@@ -10,11 +11,12 @@
 @import './team';
 
 
-
-@import './modal';
+@import './utils/hidden';
+@import './components/modal';
 
 
 @import './portfolio/portfolio';
 @import './portfolio/card';
 @import './footer';
 @import './subscription';
+
